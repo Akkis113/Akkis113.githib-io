@@ -1,0 +1,3 @@
+[submodule "RPS"]
+	path = RPS
+	url = https://github.com/Akkis113/RPS.git
